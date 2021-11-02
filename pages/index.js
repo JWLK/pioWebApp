@@ -77,13 +77,13 @@ const Home = () => {
             </SearchContentsBG>
           </SearchSection>
         </Col>
-        <Col xs={24} lg={24}>
+        {/* <Col xs={24} lg={24}>
           <SearchSection>
             <SearchContentsBG style={{textAlign:'center', fontSize:'18px'}}>
               <Link href="/devmode"><a>개발자모드</a></Link>
             </SearchContentsBG>
           </SearchSection>
-        </Col>
+        </Col> */}
         <Col xs={24} lg={24}>
           <MainViewSection>
             <MainContentsBG>
